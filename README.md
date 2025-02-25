@@ -54,7 +54,7 @@ bash start.sh
 ## 📸 **Screenshots**
 
 ### Tool Execution
-![Execution]([https://github.com/01nstagram/Demon-nuker/blob/main/ft/Screenshot_2025-02-24-22-23-31-406_com.termux.png](https://github.com/01nstagram/Demon-nuker/blob/main/ft/Screenshot_2025-02-24-22-23-31-406_com.termux.png))
+![Screenshot](ft/Screenshot_2025-02-24-22-23-31-406_com.termux.png)](https://github.com/01nstagram/Demon-nuker/blob/main/ft/Screenshot_2025-02-24-22-23-31-406_com.termux.png))
 
 ---
 
