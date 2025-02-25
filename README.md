@@ -66,7 +66,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📞 **Contact**
 If you have questions or suggestions, feel free to reach out:
-- **Email**: your-email@example.com
+- **Discord**: o1nstagram 
 - **GitHub**: [1nstagram](https://github.com/01nstagram)
 
 details or adjustments, just let me know! 😊
